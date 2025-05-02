@@ -487,4 +487,23 @@ The following improvements are planned for future releases:
     - Add automated regression testing
     - Develop benchmark tests for performance monitoring
     - Benefits: Improved reliability, easier maintenance, and safer refactoring
+
+11. **Reliability Score Refinement**
+    - Tune, fix, or potentially eliminate the quantitative reliability score system
+    - Develop a more nuanced scoring mechanism that better reflects article quality
+    - Explore alternative evaluation approaches that avoid oversimplification
+    - Benefits: More accurate and meaningful quality assessments
+
+12. **Reference Analysis Enhancement**
+    - Implement detection of circular references and citation patterns
+    - Classify sources by type, authority, and independence
+    - Identify overreliance on single sources or known problematic domains
+    - Create a database of source reliability metrics
+    - Benefits: Deeper insight into citation quality without web browsing
+
+13. **Emotional Trigger Detection**
+    - Maintain a list of key phrases known to trigger emotional reactions
+    - Implement objective summarization of emotionally charged topics
+    - Add warnings when potentially manipulative language is detected
+    - Benefits: Reduced susceptibility to emotional manipulation techniques
 </details>
