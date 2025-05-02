@@ -1,0 +1,250 @@
+# A behind-the-scenes look at making Pulitzer Prize-winning journalism
+
+Source: www.editorandpublisher.com
+Date: 2024-05-24
+Author: Gretchen A. Peck
+URL: https://www.editorandpublisher.com/stories/pulitzer-story,249969
+
+## Article Content
+
+On May 6, 2024, the Pulitzer Prize winners were announced via livestream. This year, four of the major category winners represented small nonprofit newsrooms. On Twitter, Steven Waldman — founder and president of Rebuild Local News — astutely observed: “Of the 11 outlets that won journalism Pulitzers, none were owned by hedge funds, 0 owned by private equity, two in publicly traded companies, four were nonprofit, five were family-owned. #futureoflocalnews.”
+
+E&P spoke with editors and investigative reporters credited with three of the award-winning works to get a sense of the labor and resources invested in producing Pulitzer Prize-winning journalism. We congratulate — and are grateful for — all of the winners.
+
+Seeing those gone missing
+
+“
+
+Missing in Chicago
+
+,” a seven-part series that was awarded a Pulitzer in the Local Reporting category, is the result of a dogged investigation into missing Black women and girls, thanks to a collaboration between
+
+Trina Reynolds-Tyler
+
+, data director at the Invisible Institute and
+
+Sarah Conway
+
+, a senior reporter with the nonprofit journalism lab, City Bureau.
+
+While working for City Bureau, Conway had the opportunity to investigate the restorative justice movement in Chicago. “Through that reporting, I became really interested in how people’s lived experience influences how they move through the criminal justice system,” she said.
+
+After earning a master’s degree in public policy, Reynolds-Tyler gained particular experience doing outreach for the “
+
+Citizens for Police Data Project
+
+” and was keenly interested in systems of accountability for the police.
+
+The two journalists found their investigative interests and personal experiences aligned, so they partnered on “Missing in Chicago,” part of the two newsrooms’ broader “
+
+Beneath the Surface
+
+” project. As they began their data-driven investigation, they discovered thousands of complaints about police conduct and negligence related to missing persons cases — especially Black women and girls. They spotted reoccurring themes among the complaints, including mothers who said the police had treated them poorly — from abusive language to dismissive or impeding conduct — when they reported their daughters missing. They also discovered a significant number of cases had been prematurely closed without resolution.
+
+“Four cases of premature closure we found occurred where the person, they claimed, had been found. But they actually hadn’t been found, including the case of two teenage girls who were later found murdered,” Reynolds-Tyler said.
+
+The investigation revealed that Black Chicagoans make up the bulk of the city’s missing persons. “In particular, Black girls and women between the ages of 10 and 20 make up about 30% of all missing person cases in the city, according to police data, despite comprising only 2% of the city population as of 2020. Many families felt that bias played a role in slow or insufficient police response in their cases,” they reported.
+
+Obtaining, cleaning and analyzing data, with AI modeling, was foundational to their investigation, including more than 1 million police records, homicide data, medical examiner reports and other data. They also invested time speaking with families about the circumstances of their loved ones’ disappearances and expressly sought to get to know who they were as people. Many of those families not only felt they’d been mistreated by law enforcement but also by the press. They heard accounts of reporters merely concerned with fact-finding, without any earnest interest in understanding who the missing person was and what their family had experienced. Reynolds-Tyler’s and Conway’s approach was deeper, kinder, more sincere. “When we would peel back to understand what was going on in their loved ones’ lives, we would often hear about different challenges or struggles the person had been dealing with, and we didn’t want ever to judge the individual or blame them,” Conway said. “Because the police had often done that to them. The police had blamed the families for the person gone missing, or blamed the person who'd gone missing themselves.”
+
+Reynolds-Tyler said it allowed the families to “repaint their memories of them, not based on the worst thing that happened to them, but on the full scope of their lives.”
+
+They were careful not to “overpromise” what might come of their investigation to the missing persons’ families. And yet, the impact of their journalism is measurable and ongoing. They were asked to speak before the Illinois Task Force on Missing and Murdered Chicago Women. Chicago’s mayor convened a hearing by the Committee on Public Safety, where they also testified.
+
+“We know the Office of the Inspector General in Chicago, one of their priorities in 2024 is to investigate the Chicago Police Department’s missing persons administrative pipeline,” Conway said. “Another impact that I think is really important is our ongoing relationships with sources, particularly among the impacted families. … That is something that I think we're both really proud of because newsrooms — particularly newsroom leadership — are not always thinking and considering the impact our stories have on the people in them.”
+
+When the rains came
+
+It was the final day of 2022, New Year’s Eve, when storms began to ravage Santa Cruz County. Most of the staff for the small nonprofit newsroom,
+
+Lookout Santa Cruz
+
+, was away enjoying the holiday. Managing Editor
+
+Tamsin McMahon
+
+was at home when the sky turned black and rain fell in sheets. She recalled how her phone lit up with alerts of road closures and evacuation warnings. A local man was killed by a falling tree. McMahon and Photographer Kevin Payne went to work — Payne headed out into the field to document the storm's impact, and McMahon got on the phone with local agencies.
+
+The forecast for the days ahead was troubling. A bomb cyclone was headed their way in the first week of the new year. It promised to pummel the region with more rain, deluging the already saturated ground. Returning to their posts, the staff took an all-hands-on-deck approach to reporting on the ongoing natural disaster. They started a live blog to get information out to the public expediently and delegated coverage duties.
+
+“In the beginning, it was very practical information, like here are the shelters that you can go to; here are the road closures; here are the evacuation orders and warnings; here’s where you can get sandbags; here are the power outages and estimated times when they might be back on,” McMahon said.
+
+Several of their reporters ventured out to report from different parts of the county. “One of our reporters spent time in a community in the mountains that was cut off by a landslide,” she recounted. One of the formidable challenges they faced was geography. The harm was widespread.
+
+“We had six reporters and one photographer, and this event was happening everywhere, all of the time,” she stressed.
+
+“Our education reporter,
+
+Hillary Ojeda
+
+, went with the police, going door-to-door while they were trying to get people to leave a community. Many refused to leave, so she interviewed those residents. Our politics reporter,
+
+Chris Neely
+
+, spent time at the county’s emergency operations centers. … We spent time with the PGE crews while they set up their mobile response units and planned how to manage all these power outages,” McMahon said.
+
+As a newsroom, they discussed the paramount importance of their reporters’ safety and planned rotational schedules to give the staff much-needed rest.
+
+They published not only the live blog but also shared social posts, sent out newsletters and produced video reels so the public could see what was happening in and around their communities. With the power outages, many residents lost access to the internet yet still had mobile service, so they leveraged the Subtext SMS text messaging platform for push notifications and to receive comments and questions from the public.
+
+Even when the rains passed, they knew the story was far from over. They launched a “storm recovery” page on the website. The flooding impacted nearly every aspect of daily life — stores, restaurants, schools, homes, infrastructure, the economy and governance. For months, every beat required that context.
+
+“We have an election in the fall, and it’s factored into some of the county supervisor races, especially in the mountains,” McMahon said. “These are areas that were affected by wildfires and now by the massive storm damage, and there’s no money for infrastructure repair.”
+
+Lookout Santa Cruz was awarded the 2024 Pulitzer Prize for Breaking News Reporting for its sweeping and ongoing coverage of the storms and their aftermath. McMahon is particularly proud that the entire staff shares in the honor. When E&P spoke with her in mid-May, they were planning a party to celebrate.
+
+Ken Doctor
+
+, Lookout Santa Cruz’s founder and CEO, had announced plans to start a new newsroom in Eugene, Oregon, where local news has notoriously eroded.
+
+An iconic weapon
+
+The Washington Post was awarded three Pulitzers this year — in the Commentary category for Vladimir Kara-Murza’s columns from a Russian prison cell; the Editorial Writing Prize for its “Annals of Autocracy series;” and the National Reporting Prize for its series “
+
+American Icon
+
+.”
+
+Peter Wallsten
+
+is the Post’s senior national enterprise editor. Throughout his time as a national team member, he’s edited four Pulitzer-winning entries.
+
+Wallsten traced the origin story of “American Icon” to the morning after the mass murders at Robb Elementary in Uvalde, Texas. Mass shootings have become a patently American phenomenon. The perpetrators have chosen schools and campuses, churches and synagogues, grocery stores, workplaces and outdoor concert venues to indiscriminately kill multitudes of men, women and children with firepower meant for theaters of war.
+
+Wallsten observed that past coverage of mass shootings typically focused on the singular event rather than as a collective phenomenon.
+
+“News organizations in the United States have handled these tragedies by losing sight of the fact that it’s a cumulative, ongoing tragedy,” the editor suggested. He also noted that coverage tends to be sanitized, that the actual devastation is glossed over with mere images of crime scene tape.
+
+“We were looking to come at the issue differently, to shake up the national conversation, to try to grab the public’s attention on a topic that felt like the public was becoming numb to, even though it was becoming increasingly common,” he said.
+
+They brainstormed and considered several angles: a big sweeping piece about gun culture, guns and politics, and guns and public policy. One suggestion was a deep dive into the AR-15, a weapon created for military use during the Vietnam War. Decades later, the team discovered, it had become a “financial savior” for the firearms industry. It’s also a weapon that is passionately “revered” or “reviled,” Wallsten said.
+
+“It was a really interesting concept to go deep on one weapon, and there was good reason to do it because it had become the most common weapon in the deadliest mass shootings. … It was clearly the icon for the semi-automatic rifle. You see images of the AR-15 on hats and pins. It has huge fans. It was the best-selling rifle in the country. It was the centerpiece of the firearms industry in the United States,” he explained.
+
+The series drew from previously unreported firsthand accounts of AR-15 shootings, autopsy reports, police body cam footage and testimonials, firearms manufacturer’s marketing and historical documentation.
+
+“We knew we wanted to do something visual, and our graphics department started to focus on this question of how the bullet from the AR-15 affects the human body,” Wallsten recalled. They studied medical examiner reports. They were particularly haunted by what they learned about the AR-15’s impact on children’s bodies.
+
+“Every shooting, especially at Robb Elementary — and this was true at Sandy Hook, as well — anytime there were kids involved, the bodies would have to be identified using DNA because you couldn’t tell who was who after they were shot,” he said.
+
+“That was the inspiration for the story, ‘The Blast Effect,’ which I think was one of the series’ biggest, most attention-getting stories,” he added. The graphics team created animations based on the velocity of AR-15 bullets, showing what happens inside the body. “It eviscerates everything and vaporizes bones.”
+
+It was one of the most widely shared parts of the series, and the term “the blast effect” became commonly used by analysts following subsequent mass shootings.
+
+As a newsroom, they had spirited discussions about what was beyond the pale for publication. For example, they had gotten body cam video from Robb Elementary. They decided that showing those images would not only be insensitive to the families but also be too graphic for the public. They didn’t want to detract from the journalism. Instead, they published the photos of the crime scene after the bodies had been removed.
+
+“It was enough to see that there was a lot of blood, the sense of chaos, where bodies had been piled, where they’d been dragged,” he explained.
+
+Before publishing each story in the series, The Washington Post made a concerted effort to alert each impacted community to not retraumatize them all over again. Victims’ families are not monolithic, he explained, and each one is entitled to their position on how the story should be reported and its impact. For example, some families wanted the crime scene photos shown to the world. Others felt it would be an invasion of privacy. Some have lobbied for much stricter gun laws, while others still insist assault rifles shouldn’t be banned.
+
+“[The AR-15] is a symbol on both sides. It is a really important symbol for the right, in terms of Second Amendment rights. … It’s a form of identity. It’s also the symbol for many who support restricting guns or banning semi-automatic guns. It’s a symbol of what’s wrong with the country. That’s why we called the series ‘American Icon,’ because it is an icon and has meaning across the board,” Wallsten said.
+
+Among the challenges they faced reporting this series was a lack of access to crime scenes, getting the blessings of victims' families to publish particular information and photos showing their loved ones’ deaths, and, of course, insight into the manufacturers’ lobby. “It was really hard to penetrate the firearms industry,” Wallsten said.
+
+When the newsroom considered the potential for impact, they hoped it would not only change the nationwide conversation about mass shootings and gun policy but also change how journalists cover these tragic events.
+
+“There are a lot of journalistic norms and standards around covering mass shootings, especially when it comes to publishing pictures and videos. We crossed those boundaries deliberately, carefully, and, I think, sensitively,” Wallsten said.
+
+The Pulitzer for “American Icon” is shared by the entire newsroom.
+
+“Obviously, it’s a great honor and wonderful recognition of the work. It can be an odd contrast to ‘celebrate’ winning something when the subject matter is so dark and when you’re writing about tragedies deeply felt across the country. We were honored to get the award and hope it tells the world they should read the stories. We produced them because we wanted them to have a big impact, and what the Pulitzer Prize can do is point the world to this work as journalism worth reading, absorbing and spending time with,” Wallsten reflected.
+
+Gretchen A. Peck is a contributing editor to Editor & Publisher. She's reported for E&P since 2010 and welcomes comments at
+
+gretchenapeck@gmail.com
+
+.
+
+Comments
+
+No comments on this item Please log in to comment by clicking here
+
+## Hyperlinks
+
+1. [https://www.facebook.com/EditorAndPublisher](https://www.facebook.com/EditorAndPublisher)
+2. [https://twitter.com/editorpublisher](https://twitter.com/editorpublisher)
+3. [https://www.linkedin.com/company/editor-&-publisher](https://www.linkedin.com/company/editor-&-publisher)
+4. [DataBook](https://www.editorandpublisher.com/databook23/index.html)
+5. [Subscribe](https://www.simplecirc.com/subscribe/editor-and-publisher-magazine)
+6. [Newsletters Signup](https://www.editorandpublisher.com/newsletter-sign-up/index.html)
+7. [Download Our App](https://www.editorandpublisher.com/stories/download-the-ep-app,169849)
+8. [Submit Content Ideas](https://www.editorandpublisher.com/stories/submit-your-content-ideas-to-ep,209465)
+9. [Search](https://www.editorandpublisher.com/search.html)
+10. [https://www.editorandpublisher.com/](https://www.editorandpublisher.com/)
+11. [EXCLUSIVE REPORTING](https://www.editorandpublisher.com/exclusives/)
+12. [Vodcasts](https://www.editorandpublisher.com/vodcasts/)
+13. [Revenue & Ad Sales](https://www.editorandpublisher.com/revenue/)
+14. [Technology](https://www.editorandpublisher.com/tech/)
+15. [Public Media](https://www.editorandpublisher.com/publicmedia/)
+16. [Operations](https://www.editorandpublisher.com/operations/)
+17. [E&P Voices/ Commentary](https://www.editorandpublisher.com/voices/)
+18. [Diversity, Equity & Inclusion (DEI)](https://www.editorandpublisher.com/diversity/)
+19. [Tornoe Cartoons](https://www.editorandpublisher.com/tornoe/)
+20. [Photo of the Month](https://www.editorandpublisher.com/photos/)
+21. [INDUSTRY NEWS](https://www.editorandpublisher.com/news/)
+22. [Newspeople](https://www.editorandpublisher.com/newspeople/)
+23. [Obituaries](https://www.editorandpublisher.com/obituaries/)
+24. [Partner Case Studies & Webinars](https://www.editorandpublisher.com/casestudies/)
+25. [Partner Press Releases](https://www.editorandpublisher.com/pressreleases/)
+26. [EPPY Awards](https://www.eppyawards.com/)
+27. [Creative Visionaries](https://www.editorandpublisher.com/stories/creative)
+28. [Publisher of the Year](https://www.editorandpublisher.com/stories/leonard-woolsey-honored-in-chicago-as-eps-2023-publisher-of-the-year,246116)
+29. [Sales Superstars](https://www.editorandpublisher.com/stories/help-us-recognize-your-sales-superstars,208726)
+30. [News Media's 10 to Watch](https://www.editorandpublisher.com/10/index.html)
+31. [Operations All-Stars](https://www.editorandpublisher.com/stories/stop-the-presses-operations-all-stars-class-of-2023-nominate-a-colleague-today,231523)
+32. [25 Under 35](https://www.editorandpublisher.com/stories/eps-25-under-35-nominations-are-open,241065)
+33. [15 Over 50](https://www.editorandpublisher.com/stories/nominations-for-eps-15-over-50-are-now-open,234426)
+34. [Business Partner Powerhouses](https://www.editorandpublisher.com/stories/eps-2022-business-partner-powerhouses,224524)
+35. [Editors Extraordinaire](https://www.editorandpublisher.com/stories/2022-ep-editors-extraordinaire,227442)
+36. [Photojournalism: "E&P Shooting Stars"](https://www.editorandpublisher.com/stories/nominations-are-open-for-eps-photojournalism-competition-shooting-stars-class-of-2023,223289)
+37. [News Pets](https://www.editorandpublisher.com/newspets/index.html)
+38. [INDUSTRY EVENTS](https://www.editorandpublisher.com/calendar/)
+39. [JOBS](https://jobs.mediajobboard.com/)
+40. [Current Issue](https://editorandpublisher.pressreader.com/editor-publisher)
+41. [Online Issues (Oct 2017+)](https://www.editorandpublisher.com/onlineissues/)
+42. [Archives (1905 - 2015)](https://www.editorandpublisher.com/archives/)
+43. [Log in](https://www.editorandpublisher.com/login.html)
+44. [http://editorpublisherbanners.creativecirclemedia.com/www/delivery/ck.php?n=afc4e2c5&cb=INSERT_RANDOM_NUMBER_HERE](http://editorpublisherbanners.creativecirclemedia.com/www/delivery/ck.php?n=afc4e2c5&cb=INSERT_RANDOM_NUMBER_HERE)
+45. [https://www.editorandpublisher.com/uploads/original/20240524-095338-f38-Screenshot 2024-05-24 at 08.53.28.png.jpg](https://www.editorandpublisher.com/uploads/original/20240524-095338-f38-Screenshot 2024-05-24 at 08.53.28.png.jpg)
+46. [Missing in Chicago](https://chicagomissingpersons.com/)
+47. [Trina Reynolds-Tyler](https://invisible.institute/trina-reynolds-tyler)
+48. [Sarah Conway](https://www.sarahanneconway.com/)
+49. [Citizens for Police Data Project](https://invisible.institute/police-data)
+50. [Beneath the Surface](https://invisible.institute/beneath-the-surface)
+51. [Lookout Santa Cruz](https://lookout.co/)
+52. [Tamsin McMahon](https://lookout.co/meet-the-team/tamsin-mcmahon/)
+53. [Hillary Ojeda](https://lookout.co/meet-the-team/hillary-ojeda/)
+54. [Chris Neely](https://lookout.co/meet-the-team/christopher-neely/)
+55. [Ken Doctor](https://lookout.co/meet-the-team/ken-doctor/)
+56. [American Icon](https://www.washingtonpost.com/pr/2023/03/28/american-icon-new-series-washington-post-explores-how-ar-15-became-powerful-political-cultural-symbol-america/)
+57. [Peter Wallsten](https://www.washingtonpost.com/people/peter-wallsten/)
+58. [http://www.facebook.com/sharer.php?u=https://www.editorandpublisher.com/stories/pulitzer-story,249969](http://www.facebook.com/sharer.php?u=https://www.editorandpublisher.com/stories/pulitzer-story,249969)
+59. [https://twitter.com/intent/tweet?url=https://www.editorandpublisher.com/stories/pulitzer-story,249969&text=Simple%20Share%20Buttons&hashtags=simplesharebuttons](https://twitter.com/intent/tweet?url=https://www.editorandpublisher.com/stories/pulitzer-story,249969&text=Simple%20Share%20Buttons&hashtags=simplesharebuttons)
+60. [https://bsky.app/intent/compose?text=A%20behind-the-scenes%20look%20at%20making%20Pulitzer%20Prize-winning%20journalism%20https%3A%2F%2Fwww.editorandpublisher.com%2Fstories%2Fpulitzer-story%2C249969](https://bsky.app/intent/compose?text=A%20behind-the-scenes%20look%20at%20making%20Pulitzer%20Prize-winning%20journalism%20https%3A%2F%2Fwww.editorandpublisher.com%2Fstories%2Fpulitzer-story%2C249969)
+61. [http://www.linkedin.com/shareArticle?mini=true&url=https://www.editorandpublisher.com/stories/pulitzer-story,249969](http://www.linkedin.com/shareArticle?mini=true&url=https://www.editorandpublisher.com/stories/pulitzer-story,249969)
+62. [Please log in to comment by clicking here](https://www.editorandpublisher.com/login.html?referer=%2Fstories%2Fpulitzer-story%2C249969)
+63. [Get to yes faster: The anatomy of a perfect proposal](https://www.editorandpublisher.com/stories/create-the-perfect-proposal-to-increase-closing-ratios,255549)
+64. [A new blueprint for local news: The Spokesman-Review bets on hybrid revenue and community ties](https://www.editorandpublisher.com/stories/a-new-blueprint-for-local-news,255529)
+65. [Not just content — capacity: AP’s new program helps local newsrooms go deeper](https://www.editorandpublisher.com/stories/not-just-content-capacity-aps-new-program-helps-local-newsrooms-go-deeper,255505)
+66. [News outlets have built a border wall, too. Here are four ways to tear it down.](https://www.editorandpublisher.com/stories/the-other-border-wall-news-outlets-have-built-a-border-wall-too-here-are-four-ways-to-tear-it,255503)
+67. [Google’s AI Mode is changing search](https://www.editorandpublisher.com/stories/googles-ai-mode-is-changing-search,255134)
+68. [No one-size-fits-all: New study offers real ad solutions for tiny newsrooms](https://www.editorandpublisher.com/stories/no-one-size-fits-all-new-study-offers-real-ad-solutions-for-tiny-newsrooms,255155)
+69. [From prison cells to bylines](https://www.editorandpublisher.com/stories/from-prison-cells-to-bylines,255157)
+70. [Reporting from the right](https://www.editorandpublisher.com/stories/reporting-from-the-right,255165)
+71. [https://www.editorandpublisher.com/stories/mjb-broadstreet-code-2,225758](https://www.editorandpublisher.com/stories/mjb-broadstreet-code-2,225758)
+72. [http://www.MediaJobBoard.com/](http://www.MediaJobBoard.com/)
+73. [Post or search jobs now](http://www.MediaJobBoard.com)
+74. [https://www.editorandpublisher.com/stories/revolutionizing-digital-publishing-forum-communications-path-to-efficiency,255519](https://www.editorandpublisher.com/stories/revolutionizing-digital-publishing-forum-communications-path-to-efficiency,255519)
+75. [https://www.editorandpublisher.com/stories/helping-small-newsrooms-do-more-with-less-notas-99month-matching-grant-now-available,255161](https://www.editorandpublisher.com/stories/helping-small-newsrooms-do-more-with-less-notas-99month-matching-grant-now-available,255161)
+76. [https://www.editorandpublisher.com/stories/blox-nxt-unveiled-the-future-of-content-management-is-here,255136](https://www.editorandpublisher.com/stories/blox-nxt-unveiled-the-future-of-content-management-is-here,255136)
+77. [/casestudies/index.html](https://www.editorandpublisher.com/stories/Access all #NewsMedia Case Studies)
+78. [https://www.editorandpublisher.com/stories/how-ogden-and-the-advocate-turned-job-boards-into-real-revenue,255551](https://www.editorandpublisher.com/stories/how-ogden-and-the-advocate-turned-job-boards-into-real-revenue,255551)
+79. [See More Partner News](https://www.editorandpublisher.com/press-releases/)
+80. [https://www.editorandpublisher.com/stories/what-4000plus-governments-law-firms-like-about-self-serve-legal-notice-software,253312](https://www.editorandpublisher.com/stories/what-4000plus-governments-law-firms-like-about-self-serve-legal-notice-software,253312)
+81. [About us/ Contact us](https://www.editorandpublisher.com/about-us/)
+82. [Advertise](https://www.editorandpublisher.com/advertise/)
+83. [Privacy Policy](https://www.editorandpublisher.com/privacy-policy/)
+84. [Diversity & Inclusion Policy](https://www.editorandpublisher.com/diversity-policy/index.html)
+85. [AI Editorial Policy](https://www.editorandpublisher.com/AI-policy/index.html)
+86. [Terms of Use](https://www.editorandpublisher.com/terms-of-use/)
+87. [Powered by Creative Circle Media Solutions](http://creativecirclemedia.com)

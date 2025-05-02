@@ -34,9 +34,9 @@ nltk_data/
 
 # Logs and output
 *.log
-output/
 logs/
 tests/output/
+# Root output directory is now tracked (removed from .gitignore)
 
 # API keys and secrets
 .env

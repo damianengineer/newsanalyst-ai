@@ -2,7 +2,8 @@
 
 > **⚠️ EDUCATIONAL USE ONLY**: This software is intended for educational and research purposes only. It should not be used in production environments without additional security testing and professional code review.
 
-## Security Policy
+<details>
+<summary><strong>Security Policy</strong></summary>
 
 ### Security Features
 - Secure API key management via environment variables and 1Password integration
@@ -18,8 +19,10 @@ fixit [dot] github [at] attentiontransformer [dot] com
 ```
 
 Issues will be addressed on a best-effort basis. We appreciate your help in making this project more secure.
+</details>
 
-## How to Contribute
+<details>
+<summary><strong>How to Contribute</strong></summary>
 
 We welcome contributions to improve News Analyst! To get involved:
 
@@ -51,8 +54,10 @@ We're particularly interested in contributions related to:
 - Fixing bugs and addressing security concerns
 - Improving documentation
 - Expanding our journalistic evaluation criteria and reference materials
+</details>
 
-## License
+<details>
+<summary><strong>License</strong></summary>
 
 MIT License
 
@@ -63,12 +68,15 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+</details>
 
-## Overview
+<details>
+<summary><strong>Overview</strong></summary>
 
 A modular workflow for analyzing news articles using Claude 3.7.
 
 News Analyst is a Python application that extracts content from news articles and uses Claude 3.7 to analyze them for credibility, bias, and factual accuracy. It employs a three-step prompt flow to provide comprehensive analysis of news content.
+</details>
 
 ## Example Analysis
 
@@ -131,7 +139,8 @@ News Analyst provides detailed evaluations of articles based on journalistic pri
 
 Each analysis includes a detailed breakdown of the article's strengths and weaknesses, allowing readers to make more informed judgments about the content's reliability.
 
-## Motivation and Intended Use
+<details>
+<summary><strong>Motivation and Intended Use</strong></summary>
 
 News Analyst was created to explore how Large Language Models (LLMs) can augment human consumption of news content. By applying objective reasoning about journalistic principles and analyzing the contents of articles, the tool helps readers:
 
@@ -143,8 +152,10 @@ News Analyst was created to explore how Large Language Models (LLMs) can augment
 The application uses a deterministic workflow to retrieve content from articles and analyze them consistently, providing structured output that highlights critical aspects of journalistic quality. The analysis is based on a comprehensive [evaluation framework](evaluation_framework.md) that establishes clear criteria for assessing news content across multiple dimensions.
 
 News Analyst is intended for educational and research purposes, helping users develop critical media literacy skills in an increasingly complex information landscape.
+</details>
 
-## Features
+<details>
+<summary><strong>Features</strong></summary>
 
 - **Multi-Strategy Content Extraction**: Employs multiple robust methods (trafilatura, newspaper3k, Selenium) to retrieve article content even from sites with anti-scraping measures
 - **Three-Step Analysis Workflow**: Initial analysis → introspection → structured output format for consistent, high-quality results
@@ -158,8 +169,10 @@ News Analyst is intended for educational and research purposes, helping users de
 - **Static Type Checking**: Improves code quality and catches errors with mypy integration
 - **Centralized Configuration**: YAML-based configuration for all application settings
 - **Formatted Output**: Generates both human-readable Markdown and machine-readable JSON results
+</details>
 
-## Installation
+<details>
+<summary><strong>Installation</strong></summary>
 
 1. Clone the repository:
    ```
@@ -175,7 +188,7 @@ News Analyst is intended for educational and research purposes, helping users de
 3. Set up your Claude API key:
    - Option 1: Set the `ANTHROPIC_API_KEY` environment variable
    - Option 2: Configure 1Password integration in `config.yaml`
-   - Option 3: Provide the API key directly in `config.yaml`
+</details>
 
 ## Quickstart
 
@@ -197,7 +210,18 @@ Follow these steps to quickly get started with News Analyst:
    - Create an API key in your account dashboard
 
 4. **Set up your API key** (choose one method)
-   - Environment variable:
+   - **RECOMMENDED:** 1Password integration (most secure)
+     ```yaml
+     # In config.yaml
+     api:
+       claude:
+         onepassword:
+           enabled: true
+           vault: "Private"
+           item: "Anthropic API Key"
+           field: "api_key"
+     ```
+   - Environment variable (less secure):
      ```bash
      # macOS/Linux
      export ANTHROPIC_API_KEY=your_api_key_here
@@ -205,7 +229,6 @@ Follow these steps to quickly get started with News Analyst:
      # Windows
      set ANTHROPIC_API_KEY=your_api_key_here
      ```
-   - Or use 1Password (see Configuration section)
 
 5. **Add URLs to analyze**
    - Edit `url_input.txt` in the root directory
@@ -221,7 +244,8 @@ Follow these steps to quickly get started with News Analyst:
 
 That's it! For more advanced usage and configuration options, see the sections below.
 
-## Command-Line Options
+<details>
+<summary><strong>Command-Line Options</strong></summary>
 
 ```
 usage: newsanalyst.py [-h] [-u URL | -f FILE] [--config CONFIG] [--output-dir OUTPUT_DIR]
@@ -268,8 +292,10 @@ Use default URL input file with custom output directory:
 ```bash
 python newsanalyst.py --output-dir ./my_analyses
 ```
+</details>
 
-## Configuration
+<details>
+<summary><strong>Configuration</strong></summary>
 
 News Analyst uses a YAML configuration file (`config.yaml`) for all settings. The default configuration looks like this:
 
@@ -303,8 +329,10 @@ You can override these settings by:
 1. Editing the `config.yaml` file directly
 2. Providing a custom configuration file with the `--config` parameter
 3. Using command-line arguments to override specific settings
+</details>
 
-## Usage
+<details>
+<summary><strong>Usage</strong></summary>
 
 ### Analyze a single URL
 
@@ -329,22 +357,28 @@ python newsanalyst.py -u https://example.com/news/article --config my_config.yam
 ```
 python newsanalyst.py -u https://example.com/news/article --api-key YOUR_API_KEY --output-dir custom_output
 ```
+</details>
 
-## Output
+<details>
+<summary><strong>Output</strong></summary>
 
 For each analyzed article, News Analyst generates:
 - A Markdown file with the formatted analysis
 - A JSON file with structured data about the article and analysis
+</details>
 
-## Customizing Prompts
+<details>
+<summary><strong>Customizing Prompts</strong></summary>
 
 You can customize the analysis by editing the prompt files in the `prompts/` directory:
 - `system_prompt.txt`: Sets the context for Claude
 - `initial_prompt.txt`: Instructions for the initial analysis
 - `introspection_prompt.txt`: Instructions for the introspection step
 - `output_format.txt`: Instructions for formatting the final output
+</details>
 
-## Authentication Options
+<details>
+<summary><strong>Authentication Options</strong></summary>
 
 News Analyst supports three methods for Claude API authentication:
 
@@ -360,8 +394,10 @@ News Analyst supports three methods for Claude API authentication:
    - Enable with `api.claude.onepassword.enabled: true` in `config.yaml`
    - Configure vault, item, and field names
    - Most secure option for production use
+</details>
 
-## Development Tools
+<details>
+<summary><strong>Development Tools</strong></summary>
 
 ### Structured Logging
 
@@ -393,8 +429,10 @@ Run static type checking with mypy:
 ```
 
 This will analyze the codebase for type errors and provide suggestions for improvement.
+</details>
 
-## Future Work
+<details>
+<summary><strong>Future Work</strong></summary>
 
 The following improvements are planned for future releases:
 
@@ -440,3 +478,13 @@ The following improvements are planned for future releases:
    - Optimize performance with caching and resource management
    - Strengthen security practices for API key and content handling
    - Refactor codebase following Pythonic best practices
+
+10. **Comprehensive Test Suite**
+    - Implement complete unit testing for all modules
+    - Add integration tests for end-to-end workflows
+    - Create mock objects for external dependencies
+    - Implement test coverage reporting
+    - Add automated regression testing
+    - Develop benchmark tests for performance monitoring
+    - Benefits: Improved reliability, easier maintenance, and safer refactoring
+</details>

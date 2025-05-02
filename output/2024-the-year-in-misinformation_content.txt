@@ -1,0 +1,235 @@
+# 2024: The year in misinformation
+
+Source: newslit.org
+Date: 2024-12-18
+Author: Dan Evon
+URL: https://newslit.org/updates/2024-the-year-in-misinformation/
+
+## Article Content
+
+2024: The year in misinformation
+
+Record-breaking hurricanes, the rapid development and use of generative artificial intelligence technologies, anything Taylor Swift, two assassination attempts, and President-elect Donald Trump’s win were among the biggest news stories of 2024. But misinformation often spread as rapidly as the facts about these events did. Here are the top misinformation trends of 2024.
+
+1. Fraudulent election fraud claims
+
+In the weeks leading up to the 2024 presidential election, false claims aimed at casting doubt on the legitimacy of the electoral process were prevalent on social media. The News Literacy Project tracked
+
+viral election misinformation
+
+and archived hundreds of social media posts. The claims ranged from falsehoods about
+
+noncitizens voting
+
+to
+
+election technology suppliers altering tallies
+
+to satellites being used to change vote counts. But widespread voting irregularities have not been found and election fraud claims themselves proved fraudulent.
+
+Newslit takeaway
+
+Determining the source of a claim is key to staying reliably informed, so it’s important to ask where a photo originated or who made the assertion. Some accounts online, for example, are created to deceive people, and many were active during the campaign. In the days before the 2024 election, the
+
+FBI reported
+
+that Russia was behind several false viral claims, including one video that purported to
+
+show ballots for former President Donald Trump being destroyed
+
+.
+
+2. Taylor Swift misinformation
+
+Global superstar Taylor Swift’s Eras Tour became the highest grossing of all time in 2024, but among the RumorGuard team she earned a more dubious (and far less formal) title: Misinformation’s biggest star. The singer’s likeness was repeatedly used online to spread false claims, including falsehoods about the
+
+2020 election being stolen
+
+,
+
+political endorsements
+
+and
+
+repudiations
+
+(of President Joe Biden and both presidential candidates), and claims about climate change and
+
+economic inequality
+
+. She also became one of the few entertainers to take a strong stance against the spread of disinformation. When President-elect Trump shared AI-generated images of “Swifties for Trump,” the singer released a statement saying: “The simplest way to combat misinformation is with the truth.”
+
+Newslit takeaway
+
+Disinformation is spread online to influence people’s opinions, which is why popular celebrities are often employed as a conduit for those messages. These kinds of false claims can usually be debunked by checking the celebrity’s official social media accounts, reviewing credible news reports or doing a reverse image search.
+
+3. Lies and AI
+
+The rapid maturation of generative AI technologies continues to worry
+
+misinformation researchers
+
+. Not only have these tools proven capable of creating
+
+photo-realistic images
+
+and
+
+synthetic video
+
+, but they can also be used to
+
+mimic people’s voices
+
+and
+
+create content
+
+for nefarious websites. But at the same time, a much simpler form of misinformation still reigns supreme: The bald-faced lie.
+
+Sheer assertion claims
+
+– or false claims presented without any evidence – are one of the most popular forms of misinformation online.
+
+Newslit takeaway
+
+Whether an image is fabricated using AI or a statement is conjured out of thin air, looking for the source (or lack thereof) is an essential skill for news consumers.
+
+4. Assassination attempt conspiracies
+
+Disinformation is
+
+fueling a rise
+
+in conspiracy theories, which was readily apparent in the aftermath of the assassination attempts against former President Donald Trump. In addition to falsehoods that commonly spread during events like these — including shooter misidentifications, wild speculation around motives and the shooter’s political party affiliation — some turned more conspiratorial as people claimed without evidence that the shootings were coordinated. It’s worth noting that conspiracy theories were not constrained to
+
+one side of the political aisle
+
+. Rumors aimed at liberals claimed that the shooting was staged by Trump himself to get a boost in the polls.
+
+Newslit takeaway
+
+A gap in credible information in the immediate wake of a breaking news story allows conspiracy theories to quickly take root. Be patient during breaking news events and remember that credible, verified information takes time to emerge.
+
+5. A flood of hurricane rumors
+
+The 2024 Atlantic hurricane season was extremely active and resulted in billions of dollars in damages along the east coast of the United States. While the federal response was praised by
+
+Republican governors in the affected states
+
+, the false belief that the federal government’s response was inadequate and amounted to little more than a
+
+$750 check
+
+persists. The claim was amplified by a
+
+Russian disinformation campaign
+
+to undermine trust in government and deepen partisan divides. Other misinformation included false claims that
+
+FEMA was turning away donations
+
+and
+
+diverting funds for emergency response to the border
+
+, that the FAA was
+
+restricting airspace
+
+to stop rescue missions, and that the government
+
+geoengineered
+
+hurricanes Milton and Helene to intentionally damage Republican states.
+
+Newslit takeaway
+
+It’s easy to fall for claims that play into our preconceived biases. Learning how to differentiate between biased sources and reputable news is a key part of staying informed.
+
+## Hyperlinks
+
+1. [The News Literacy Project](https://newslit.org)
+2. [For Educators](https://newslit.org/educators/)
+3. [★ Resource Library](https://www.newslit.org/educators/resources)
+4. [The Sift®](https://newslit.org/educators/sift/)
+5. [Checkology® virtual classroom](https://get.checkology.org)
+6. [Professional Development](https://newslit.org/pd/)
+7. [Newsroom to Classroom](https://newslit.org/educators/newsroom-to-classroom/)
+8. [District Fellowship](https://newslit.org/district-fellowship/)
+9. [About](https://newslit.org/district-fellowship/#about)
+10. [Current fellows](https://newslit.org/district-fellowship/#current-fellows)
+11. [Alumni](https://newslit.org/district-fellowship/alumni/)
+12. [Educator Help Center](https://checkology.zendesk.com/hc/en-us)
+13. [For Everyone](https://newslit.org/for-everyone/)
+14. [RumorGuard](https://www.rumorguard.org/)
+15. [Get Smart About News® Newsletter](https://newslit.org/get-smart-newsletters/)
+16. [Training](https://newslit.org/training/)
+17. [Campaigns/Research](https://newslit.org/news-literacy-week/)
+18. [2024 Election Misinformation](https://newslit.org/election/)
+19. [News Literacy in America](https://newslit.org/news-literacy-in-america)
+20. [Israel-Hamas war Misinformation](https://newslit.org/navigating-misinformation-in-the-israel-hamas-war/)
+21. [About](https://newslit.org/about/)
+22. [Mission](https://newslit.org/about/mission/#nlp-mission)
+23. [Our Founder](https://newslit.org/founder/)
+24. [Support NLP](https://newslit.org/donate/)
+25. [Ways to Give](https://newslit.org/waystogive/)
+26. [Visionary Circle](https://newslit.org/vision/)
+27. [Legacy Society](https://newslit.org/legacy-society/)
+28. [Gift Acceptance Policy](https://newslit.org/gift-acceptance-policy/)
+29. [Our Supporters](https://newslit.org/about/supporters/)
+30. [NLP News](https://newslit.org/updates/)
+31. [Updates](https://newslit.org/updates/?type=updates)
+32. [Events](https://newslit.org/updates/?type=events)
+33. [NLP in the News](https://newslit.org/updates/?type=media-coverage)
+34. [Team & Careers](https://newslit.org/about/team/)
+35. [Subscribe](https://newslit.org/subscribe)
+36. [Facebook](https://www.facebook.com/v2.7/dialog/feed?app_id=2037526249802599&link=https%3A%2F%2Fnewslit.org%2Fupdates%2F2024-the-year-in-misinformation%2F)
+37. [Linked In](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fnewslit.org%2Fupdates%2F2024-the-year-in-misinformation%2F&title=2024%3A+The+year+in+misinformation)
+38. [Flipboard](https://share.flipboard.com/bookmarklet/popout?v=2&title=2024%3A+The+year+in+misinformation&url=https%3A%2F%2Fnewslit.org%2Fupdates%2F2024-the-year-in-misinformation%2F)
+39. [Email](https://newslit.org/cdn-cgi/l/email-protection#c5fab6b0a7afa0a6b1f8aba0b2b6a9acb1ebaab7a2ffe0f7f5f7f5f7f1e0f684e0f7f591ada0e0f7f5bca0a4b7e0f7f5acabe0f7f5a8acb6acaba3aab7a8a4b1acaaabe3a7aaa1bcf883b7aaa8e0f7f591ada0e0f7f58ba0b2b6e0f7f589acb1a0b7a4a6bce0f7f595b7aaafa0a6b1ffe0f581e0f584e0f581e0f584f7f5f7f1e0f684e0f7f591ada0e0f7f5bca0a4b7e0f7f5acabe0f7f5a8acb6acaba3aab7a8a4b1acaaabe0f581e0f584e0f581e0f5848db0b7b7aca6a4aba0b6e0f786e0f7f5848ce0f786e0f7f591a4bca9aab7e0f7f596b2aca3b1e0f786e0f7f5a4b6b6a4b6b6acaba4b1acaaabe0f7f5a4b1b1a0a8b5b1b6e0f7f5a4aba1e0f7f5b1ada0e0f7f5a0a9a0a6b1acaaabe0f7f5b2a0b7a0e0f7f5a7aca2e0f7f5b6b1aab7aca0b6e0f7f5acabe0f7f5f7f5f7f1e0f786e0f7f5a4aba1e0f7f5b1ada0e0f7f5a3aaa6b0b6e0f7f5aaa3e0f7f5b1aab5e0f7f5a8acb6acaba3aab7a8a4b1acaaabe0f7f5b1b7a0aba1b6ebe0f581e0f584e0f581e0f584adb1b1b5b6e0f684e0f783e0f783aba0b2b6a9acb1ebaab7a2e0f783b0b5a1a4b1a0b6e0f783f7f5f7f1e8b1ada0e8bca0a4b7e8acabe8a8acb6acaba3aab7a8a4b1acaaabe0f783)
+40. [viral election misinformation](https://misinfodashboard.newslit.org/)
+41. [noncitizens voting](https://www.rumorguard.org/post/posts-falsely-claim-surge-in-migrants-registering-to-vote-without-photo-id)
+42. [election technology suppliers altering tallies](https://www.rumorguard.org/post/dominion-voting-s-logo-altered-to-spread-election-fraud-claims)
+43. [FBI reported](https://www.npr.org/2024/11/05/g-s1-32680/2024-election-russia-iran-china-results)
+44. [show ballots for former President Donald Trump being destroyed](https://www.rumorguard.org/post/viral-video-falsely-claims-to-show-trump-votes-being-destroyed)
+45. [2020 election being stolen](https://factcheck.afp.com/doc.afp.com.34HB6JX)
+46. [political endorsements](https://www.rumorguard.org/post/no-taylor-swift-hasn-t-endorsed-a-2024-presidential-candidate)
+47. [repudiations](https://www.rumorguard.org/post/image-of-taylor-swift-wearing-anti-trump-t-shirt-is-doctored)
+48. [economic inequality](https://www.yahoo.com/entertainment/fact-check-ai-photo-shows-030000195.html)
+49. [misinformation researchers](https://news.vt.edu/articles/2024/02/AI-generated-fake-news-experts.html)
+50. [photo-realistic images](https://www.rumorguard.org/post/no-secret-service-agents-weren-t-smiling-after-trump-assassination-attempt)
+51. [synthetic video](https://www.forbes.com/sites/bernardmarr/2024/11/06/the-dark-side-of-ai-how-deepfakes-and-disinformation-are-becoming-a-billion-dollar-business-risk/)
+52. [mimic people’s voices](https://www.rumorguard.org/post/ai-voice-clone-used-to-manipulate-white-house-press-briefing-clip)
+53. [create content](https://www.rumorguard.org/post/spate-of-non-woke-hollywood-startup-rumors-spread-from-satire-ai-generated-sites)
+54. [Sheer assertion claims](https://www.rumorguard.org/tag/SheerAssertion)
+55. [fueling a rise](https://www.pbs.org/newshour/show/how-right-wing-disinformation-is-fueling-conspiracy-theories-about-the-2024-election)
+56. [one side of the political aisle](https://www.bbc.com/news/articles/cvglm0rjy2go)
+57. [Republican governors in the affected states](https://www.theguardian.com/us-news/2024/oct/09/republican-chuck-edwards-hurricane-helene-disinformation)
+58. [$750 check](https://www.reuters.com/fact-check/femas-750-emergency-aid-hurricane-helene-victims-not-loan-2024-10-11/)
+59. [Russian disinformation campaign](https://apnews.com/article/russia-hurricane-disinformation-fema-9e37c73ab8ffa2a2d338797a1a827e57)
+60. [FEMA was turning away donations](https://edwards.house.gov/media/press-releases/debunking-helene-response-myths)
+61. [diverting funds for emergency response to the border](https://www.npr.org/2024/10/07/nx-s1-5144159/fema-funding-migrants-disaster-relief-fund)
+62. [restricting airspace](https://www.fema.gov/node/rumor-faa-airspace)
+63. [geoengineered](https://www.politifact.com/factchecks/2024/oct/08/instagram-posts/video-doesnt-prove-hurricane-milton-was-geoenginee/)
+64. [Trial by Media? The Free Press and the Criminal Justice System](https://newslit.org/updates/trial-by-media-the-free-press-and-the-criminal-justice-system-2/)
+65. [How AI Shapes What We See (And What We Miss)](https://newslit.org/updates/how-ai-shapes-what-we-see-and-what-we-miss/)
+66. [Insider Spotlight: Candice Roach](https://newslit.org/updates/insider-spotlight-candice-roach/)
+67. [Email Signup](https://newslit.org/subscribe/)
+68. [Facebook](https://www.facebook.com/NewsLitProject)
+69. [LinkedIn](https://www.linkedin.com/company/newslitproject)
+70. [Flipboard](https://flipboard.com/@NewsLitProject)
+71. [TikTok](https://www.tiktok.com/@newslitproject)
+72. [Instagram](https://instagram.com/newslitproject)
+73. [YouTube](https://www.youtube.com/user/NewsLiteracyProject)
+74. [Threads](https://www.threads.net/@newslitproject)
+75. [Bluesky](https://bsky.app/profile/newslit.org)
+76. [Newsroom](https://newslit.org/newsroom)
+77. [Careers](https://newslit.org/about/team/#careers)
+78. [FAQ](https://newslit.org/faq)
+79. [Privacy Policy](https://newslit.org/privacy)
+80. [Contact](https://newslit.org/about/contact-us/)
+81. [https://www.guidestar.org/profile/shared/b96714eb-9c19-477e-90c8-e7e0cb3c9d22](https://www.guidestar.org/profile/shared/b96714eb-9c19-477e-90c8-e7e0cb3c9d22)
+82. [https://newsroom.loc.gov/news/library-of-congress-announces-2023-literacy-awards-on-international-literacy-day/s/0926b6f5-f7ed-4478-88d9-51d36d5aeedd](https://newsroom.loc.gov/news/library-of-congress-announces-2023-literacy-awards-on-international-literacy-day/s/0926b6f5-f7ed-4478-88d9-51d36d5aeedd)
+83. [https://winners.webbyawards.com/2024/websites-and-mobile-sites/responsible-technology/responsible-information/281356/checkology-getcheckologyorg](https://winners.webbyawards.com/2024/websites-and-mobile-sites/responsible-technology/responsible-information/281356/checkology-getcheckologyorg)
+84. [GIVE NOW](https://newslit.org/donate/?utm_source=newslit-lightbox&utm_medium=lightbox&utm_campaign=spring-appeal-2025&ms=spring-appeal-2025-lightbox)
