@@ -1,0 +1,130 @@
+# Format Your Investigative Reader Analysis for Maximum Impact
+
+Your task is to transform your detailed analytical work into a concise, actionable report that prioritizes the most critical insights from your investigation. Format your response using markdown to optimize readability and impact.
+
+## Original Article Content
+```
+{article_xml}
+```
+
+## Your Initial Analysis
+```
+{initial_analysis}
+```
+
+## Your Introspective Analysis
+```
+{follow_up_analysis}
+```
+
+## Report Structure
+
+### 1. Article Identification and Context
+Start with:
+- A proper Chicago-style citation of the original article
+- Content type identification (breaking news, investigative piece, opinion/analysis, etc.)
+- A single-sentence neutral description of the article's topic
+
+### 2. Reliability Assessment Dashboard
+Create a visual summary using this format:
+
+```markdown
+## Reliability Score: [X] points
+**Assessment Category:** [Generally Reliable (0-3) / Exercise Caution (4-7) / Significant Concerns (8-15) / Fundamentally Problematic (16+)]
+
+| Assessment Area | Rating | Critical Concerns |
+|-----------------|:------:|-------------------|
+| Source Architecture | 🟢/🟡/🔴 | Key issue in bullet form |
+| Evidence Quality | 🟢/🟡/🔴 | Key issue in bullet form |
+| Logical Framework | 🟢/🟡/🔴 | Key issue in bullet form |
+| Verification Transparency | 🟢/🟡/🔴 | Key issue in bullet form |
+| Narrative Construction | 🟢/🟡/🔴 | Key issue in bullet form |
+```
+
+### 3. Priority Red Flags
+Present your most significant findings first:
+
+```markdown
+### Critical Issues (5 points each)
+- [Specific issue with brief explanation]
+- [Specific issue with brief explanation]
+
+### Major Concerns (3 points each)
+- [Specific concern with brief explanation]
+- [Specific concern with brief explanation]
+```
+
+### 4. Source and Evidence Map
+Create a structured analysis of key claims:
+
+```markdown
+| Major Claim | Source(s) | Evidence Quality | Key Issues |
+|-------------|-----------|:----------------:|------------|
+| [Claim text] | [Source type(s)] | ✓/⚠️/✗ | [Brief description] |
+| [Claim text] | [Source type(s)] | ✓/⚠️/✗ | [Brief description] |
+```
+
+### 5. Narrative Analysis
+Present a concise breakdown of narrative construction techniques:
+
+```markdown
+### Narrative Architecture
+- **Framing:** [How the narrative is framed]
+- **Emphasis:** [What is emphasized vs. minimized]
+- **Emotional Loading:** [Use of emotion in factual sections]
+- **Context Gaps:** [Important missing context]
+- **Audience Targeting:** [How specific audiences are targeted]
+```
+
+### 6. Deception Detection (When Applicable)
+If your score indicates significant concerns, include:
+
+```markdown
+### Potential Manipulation Techniques
+- **[Technique Name]:** [Brief explanation of how it appears in the article]
+- **[Technique Name]:** [Brief explanation of how it appears in the article]
+```
+
+### 7. Alternative Interpretations
+Present the strongest alternative framework:
+
+```markdown
+### Alternative Perspective
+The facts presented could alternatively support the following interpretation:
+- [Concise alternative explanation that fits the verifiable facts]
+- [Key points where this interpretation differs from the article's framing]
+```
+
+### 8. Reader Action Guide
+Provide specific, actionable guidance:
+
+```markdown
+### Critical Reading Guide
+**Key Questions to Ask:**
+1. [Specific question]
+2. [Specific question]
+
+**Verification Priorities:**
+- [Specific element worth independent verification]
+- [Specific element worth independent verification]
+```
+
+## Formatting Guidelines
+
+- **Prioritize clarity over completeness** - Focus on the most significant findings
+- **Use visual hierarchy** - Employ headings, bold text, and tables to guide the eye
+- **Implement color coding** - 🟢 (reliable), 🟡 (questionable), 🔴 (problematic)
+- **Quote selectively** - Include brief quotes (under 20 words) from the article only when essential
+- **Link analysis to action** - Always connect findings to specific reader actions
+- **Tailor to content type** - Adapt analysis depth based on the article type (breaking news vs. investigative)
+- **Use bullet points** for rapid scanning
+- **Include a TL;DR** at the top for executives or quick readers
+
+Your formatted analysis should enable readers to:
+1. Quickly assess the article's reliability at a glance
+2. Understand the specific reasons for concern 
+3. Know exactly what questions to ask
+4. Determine what requires further verification
+5. Consider alternative interpretations
+
+Focus on making your analysis immediately useful for both casual readers and critical thinkers.

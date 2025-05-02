@@ -1,0 +1,117 @@
+# NewsAnalyst Configuration File
+
+# API Configuration
+api:
+  # Claude API options (choose one method)
+  claude:
+    # Environment variable name for API key
+    env_var_name: "ANTHROPIC_API_KEY"
+    
+    # 1Password integration
+    onepassword:
+      enabled: true
+      vault: "demo"
+      item: "anthropic"
+      field: "api_key"
+    
+    # API request timeout in seconds
+    request_timeout: 300
+
+# Model Configuration
+model:
+  name: "claude-3-7-sonnet-20250219"
+  temperature: 0.3
+  max_tokens: 4096
+
+# Prompt Configuration
+prompts:
+  system_prompt: "prompts/system_prompt.txt"
+  initial_prompt: "prompts/initial_prompt.txt"
+  introspection_prompt: "prompts/introspection_prompt.txt"
+  output_format_prompt: "prompts/output_format.txt"
+
+# Output Configuration
+output:
+  directory: "output"
+
+# Logging Configuration
+logging:
+  # Log level: DEBUG, INFO, WARNING, ERROR, CRITICAL
+  # - DEBUG: Detailed information, typically for debugging
+  # - INFO: Confirmation that things are working as expected
+  # - WARNING: Indication that something unexpected happened
+  # - ERROR: Error that prevented something from working
+  # - CRITICAL: Serious error that may prevent the program from continuing
+  # Note: File logs will only be created for ERROR level or more verbose
+  level: "INFO"
+  
+  # Log file path (relative to application root)
+  file: "logs/newsanalyst.log"
+  
+  # Module-specific log levels (optional)
+  modules:
+    # Set specific log levels for different modules
+    "src.clients.claude_client": "WARNING"
+    "src.extractors.article_extractor": "INFO"
+    "urllib3": "WARNING"
+    "requests": "WARNING"
+
+# Extraction Configuration
+extraction:
+  # Request configuration
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+  timeout: 30
+  max_retries: 3
+  random_delay: true  # Add random delay between requests
+  min_delay: 1        # Minimum delay in seconds
+  max_delay: 5        # Maximum delay in seconds
+  
+  # Browser emulation
+  use_selenium: true  # Use Selenium for sites with strong anti-scraping
+  selenium_sites:     # Sites that require Selenium
+    - "reuters.com"
+    - "nytimes.com"
+    - "wsj.com"
+    - "bloomberg.com"
+  
+  # Request headers
+  headers:
+    Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+    Accept-Language: "en-US,en;q=0.9"
+    Accept-Encoding: "gzip, deflate, br"
+    Connection: "keep-alive"
+    Upgrade-Insecure-Requests: "1"
+    Sec-Fetch-Dest: "document"
+    Sec-Fetch-Mode: "navigate"
+    Sec-Fetch-Site: "none"
+    Sec-Fetch-User: "?1"
+    Cache-Control: "max-age=0"
+    DNT: "1"  # Do Not Track
+    
+  # Cookies
+  use_cookies: true  # Enable cookie handling
+  
+  # Paywall detection
+  min_content_length: 1000
+  paywall_domains:
+    - "nytimes.com"
+    - "wsj.com"
+    - "ft.com"
+    - "bloomberg.com"
+    - "economist.com"
+    - "washingtonpost.com"
+    - "newyorker.com"
+    - "thetimes.co.uk"
+    - "telegraph.co.uk"
+    - "theguardian.com"
+    - "latimes.com"
+    - "theatlantic.com"
+    - "wired.com"
+    - "medium.com"
+    - "forbes.com"
+    - "barrons.com"
+    - "foreignpolicy.com"
+    - "hbr.org"
+    - "technologyreview.com"
+    - "foreignaffairs.com"
+    - "reuters.com"
